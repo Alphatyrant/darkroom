@@ -6,4 +6,5 @@ Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
 
 
 First game made of course with help and some changes 
+#Improved , and added play again button 
 #thanks :)
